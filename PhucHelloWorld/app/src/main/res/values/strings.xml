@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhucHelloWorld</string>
+    <string name="hello_txt">HelloWorld, from Phuc Hanh Nguyen!</string>
+    <string name="question_txt">What is the first letter of Phuc Hanh Nguyen\'s last name?</string>
+    <string name="checkbox_1">N</string>
+    <string name="checkbox_2">P</string>
+    <string name="btn">Show Answer</string>
+    <string name="btn2">Play Again</string>
+    <string name="answer_txt"></string>
+</resources>
