@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmailSMSAndPhone</string>
+    <string name="email">Send Email</string>
+    <string name="sms">Send SMS</string>
+    <string name="smsdirect">Send SMS Direct</string>
+    <string name="phone">Phone</string>
+    <string name="phonedirect">Phone Direct</string>
+    <string name="status">Status:</string>
+</resources>

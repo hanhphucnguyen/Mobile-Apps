@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DataPersistance3</string>
+    <string name="name">Name:</string>
+    <string name="number">Number:</string>
+    <string-array name="spinnernums">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="report">Go To Report</string>
+    <string name="save">Save To File</string>
+    <string name="read">Read From File</string>
+    <string name="close">Close Report</string>
+</resources>
