@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inclass-2</string>
+    <string name="intro">Please enter text to Visualize</string>
+    <string name="action">VISUALIZE TEXT</string>
+    <string name="return_">RETURN TO MAIN ACTIVITY</string>
+    <string name="size14">14</string>
+    <string name="size24">24</string>
+    <string name="size48">48</string>
+    <string name="size72">72</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhucInClass1</string>
+    <string name="question">What kind of phone do you have</string>
+    <string name="answer"></string>
+    <string name="radioBtn1">Android, the icon are cool</string>
+    <string name="radioBtn2">Apple, I like Steve Jobs</string>
+    <string name="radioBtn3">Blackberry, I still have one</string>
+    <string name="radioBtn4">None, I do not have phone</string>
+</resources>
